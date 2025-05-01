@@ -5,7 +5,7 @@
 - **Name**: Tyler Ward  
 - **Date**: May 1, 2025  
 - **Platform**: macOS 
-- **Errors**: None that I know of
+- **Errors**: none that i'm aware of
 
 ---
 
@@ -22,8 +22,8 @@ Example: ./proj4server 50000
 
 # Running the Programs
 ```bash
-./proj4server <port_number>
-./proj4client <server_address> <port_number>
+./server <port_number>
+./client <server_address> <port_number>
 ```
 Example: ./proj4client 127.0.0.1 50000
 

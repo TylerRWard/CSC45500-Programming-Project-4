@@ -95,5 +95,5 @@ int do_client(const char* server, unsigned int port)
     }
     close(sock);
     return SUCCESS;
-    
+
 }
